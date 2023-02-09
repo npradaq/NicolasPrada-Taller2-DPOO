@@ -1,0 +1,8 @@
+Nombre Cliente: Nicolas Prada --- Dirección Cliente: calle 166 #2-15 --- Id Pedido: 2228123
+todoterreno: 25000
+papas grandes: 6900
+gaseosa: 5000
+-------------------------------------
+ Precio Neto: 34317
+ Precio IVA: 6520
+ Precio Total: 40837
